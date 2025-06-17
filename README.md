@@ -117,4 +117,6 @@ This project uses C++ and depends on several libraries. We recommend using **vcp
 
 This project is licensed under the [MIT License](/LICENSE).
 
-Update: The link is live and working smoothly.
+
+
+Update:  17.06.2025
